@@ -19,5 +19,8 @@
   pip install pandas openpyxl
 
 ## ScreenShots
-<p align="center"> <img src="screenshots/ss1.png" alt="Screenshot 1" width="400" style="margin:10px"/> <img src="screenshots/ss2.png" alt="Screenshot 2" width="400" style="margin:10px"/> </p> <p align="center"> <img src="screenshots/ss3.png" alt="Screenshot 3" width="400" style="margin:10px"/> <img src="screenshots/ss4.png" alt="Screenshot 4" width="400" style="margin:10px"/> </p>
+<p align="center"> 
+  <img src="Screenshots/25.09.2025_00.56.39_REC.png" alt="Screenshot 1" width="400" style="margin:10px"/> 
+  <img src="Screenshots/25.09.2025_00.57.23_REC.png" alt="Screenshot 2" width="400" style="margin:10px"/> 
+</p> 
 
